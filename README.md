@@ -73,7 +73,7 @@
 
 ### Paenibacillus
 
-|:              function               :|: count:|
+|              function               | count |
 |:--------------------------------------|-------:|
 | hypothetical protein                  |   1396 |
 | GNAT family N-acetyltransferase       |    276 |
@@ -83,7 +83,7 @@
 
 ### Staphylococcus
 
-|:              function             :|: count:|
+|              function             | count |
 |:------------------------------------|-------:|
 | hypothetical protein                |    713 |
 | ABC transporter ATP-binding protein |     87 |
@@ -93,7 +93,7 @@
 
 ### Streptococcus
 
-|:                function               :|: count:|
+|                function               | count |
 |:----------------------------------------|-------:|
 | hypothetical protein                    |    478 |
 | ABC transporter ATP-binding protein     |    120 |
