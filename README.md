@@ -80,8 +80,7 @@
 
 ### Streptococcus
 
-|                function  | count |
-|                          |   func |
+|                function  | count  |
 |:-------------------------|-------:|
 | 30S ribosomal protein S9 |      5 |
 | glutamate--tRNA ligase   |      5 |
