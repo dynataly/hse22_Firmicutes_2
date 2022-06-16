@@ -15,7 +15,7 @@
 
 
 
-Презентация
+[Презентация](https://docs.google.com/presentation/d/1Svm-As2WG6i6F2u52PYbz7J38om2SyB_J_lKUWkPtmQ/edit#slide=id.p)
 
 [Статистика по всем кластерам](https://github.com/dynataly/hse22_Firmicutes_2/blob/main/cluster_stats.csv):
 
@@ -110,7 +110,15 @@ print(pd.concat([streptococcus, staphylococcus, aerococcus, anoxybacillus, enter
 | HPr family phosphocarrier protein               |      2 |
 
 
-Heatmap:
+## Heatmap:
+
+По родам:
 
 ![heat](https://user-images.githubusercontent.com/72361668/174020653-341dbc54-94e8-43de-b473-6bb0aa998d93.jpg)
+
+По видам:
+
+![heat_sp_horiz](https://user-images.githubusercontent.com/72361668/174076860-2908d02e-2833-46d9-8ce3-edbd7374d218.jpg)
+
+
 
