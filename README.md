@@ -17,7 +17,7 @@
 
 Презентация
 
-Статистика по всем кластерам:
+[Статистика по всем кластерам](https://github.com/dynataly/hse22_Firmicutes_2/blob/main/cluster_stats.csv):
 
 .. | ..
 ---|----
