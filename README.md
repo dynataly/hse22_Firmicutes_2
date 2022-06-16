@@ -118,7 +118,8 @@ print(pd.concat([streptococcus, staphylococcus, aerococcus, anoxybacillus, enter
 
 По видам:
 
-![heat_sp_horiz](https://user-images.githubusercontent.com/72361668/174076860-2908d02e-2833-46d9-8ce3-edbd7374d218.jpg)
 
+
+![heat_sp_horiz](https://user-images.githubusercontent.com/72361668/174080839-34af3869-c216-4498-a220-45d250f2a65d.jpg)
 
 
