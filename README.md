@@ -86,7 +86,28 @@
 | glutamate--tRNA ligase   |      5 |
 
 
+## Для cluster_5
 
+
+print(pd.concat([streptococcus, staphylococcus, aerococcus, anoxybacillus, enterococcus, paenibacillus], join='outer')['func'].value_counts().to_markdown())
+
+|                function  | count  |
+|:------------------------------------------------|-------:|
+| 50S ribosomal protein L18                       |     25 |
+| translation initiation factor IF-2              |     25 |
+| phosphopyruvate hydratase                       |     25 |
+| excinuclease ABC subunit UvrA                   |     25 |
+| tRNA guanosine(34) transglycosylase Tgt         |     25 |
+| 30S ribosomal protein S3                        |     25 |
+| polyribonucleotide nucleotidyltransferase       |     25 |
+| chaperonin GroEL                                |     24 |
+| translational GTPase TypA                       |     24 |
+| Mini-ribonuclease 3                             |     21 |
+| ATP-dependent Clp protease ATP-binding subunit  |     18 |
+| phosphocarrier protein HPr                      |     16 |
+| ATP-dependent protease ATP-binding subunit ClpC |      7 |
+| ribonuclease III                                |      4 |
+| HPr family phosphocarrier protein               |      2 |
 
 
 Heatmap:
