@@ -89,8 +89,6 @@
 ## Для cluster_5
 
 
-print(pd.concat([streptococcus, staphylococcus, aerococcus, anoxybacillus, enterococcus, paenibacillus], join='outer')['func'].value_counts().to_markdown())
-
 |                function  | count  |
 |:------------------------------------------------|-------:|
 | 50S ribosomal protein L18                       |     25 |
