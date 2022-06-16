@@ -41,6 +41,8 @@
 
 ## Для cluster_6
 
+[Колабчик](https://colab.research.google.com/drive/1Q5G9vosjOBqkwfDbzEas0M8iSipoAlf4?usp=sharing)
+
 ### Aerococcus
 
 |                   function                   | count |
