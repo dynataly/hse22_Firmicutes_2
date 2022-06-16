@@ -43,8 +43,8 @@
 
 ### Aerococcus
 
-|:                   function                   :|: count:|
-|:----------------------------------------------:|:------:|
+|                   function                   | count |
+|:-----------------------------------------------|-------:|
 | hypothetical protein                           |    320 |
 | ABC transporter ATP-binding protein            |     68 |
 | ABC transporter permease                       |     58 |
@@ -53,7 +53,7 @@
 
 ### Anoxybacillus
 
-|:               function                :|: count:|
+|               function                | count |
 |:----------------------------------------|-------:|
 | hypothetical protein                    |    633 |
 | ABC transporter permease                |    137 |
@@ -63,7 +63,7 @@
 
 ### Enterococcus
 
-|:                 function                 :|: count:|
+|                 function                 | count |
 |:-------------------------------------------|-------:|
 | hypothetical protein                       |    978 |
 | helix-turn-helix domain-containing protein |    162 |
