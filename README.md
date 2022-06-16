@@ -84,3 +84,12 @@
 |:-------------------------|-------:|
 | 30S ribosomal protein S9 |      5 |
 | glutamate--tRNA ligase   |      5 |
+
+
+
+
+
+Heatmap:
+
+![heat](https://user-images.githubusercontent.com/72361668/174020653-341dbc54-94e8-43de-b473-6bb0aa998d93.jpg)
+
