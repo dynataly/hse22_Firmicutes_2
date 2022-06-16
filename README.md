@@ -45,60 +45,43 @@
 
 ### Aerococcus
 
-|                   function                   | count |
-|:-----------------------------------------------|-------:|
-| hypothetical protein                           |    320 |
-| ABC transporter ATP-binding protein            |     68 |
-| ABC transporter permease                       |     58 |
-| GNAT family N-acetyltransferase                |     39 |
-| ATP-binding cassette domain-containing protein |     37 |
+|               function   | count  |
+|:-------------------------|-------:|
+| 30S ribosomal protein S9 |      4 |
+| glutamate--tRNA ligase   |      4 |
 
 ### Anoxybacillus
 
-|               function                | count |
-|:----------------------------------------|-------:|
-| hypothetical protein                    |    633 |
-| ABC transporter permease                |    137 |
-| ABC transporter ATP-binding protein     |    117 |
-| MFS transporter                         |    108 |
-| response regulator transcription factor |     69 |
+|              function    | count |
+|:-------------------------|-------:|
+| 30S ribosomal protein S9 |      5 |
+| glutamate--tRNA ligase   |      5 |
 
 ### Enterococcus
 
-|                 function                 | count |
-|:-------------------------------------------|-------:|
-| hypothetical protein                       |    978 |
-| helix-turn-helix domain-containing protein |    162 |
-| ABC transporter ATP-binding protein        |    128 |
-| ABC transporter permease                   |    117 |
-| GNAT family N-acetyltransferase            |    101 |
+|               function   | count  |
+|:-------------------------|-------:|
+| 30S ribosomal protein S9 |      4 |
+| glutamate--tRNA ligase   |      4 |
 
 ### Paenibacillus
 
-|              function               | count |
-|:--------------------------------------|-------:|
-| hypothetical protein                  |   1396 |
-| GNAT family N-acetyltransferase       |    276 |
-| AraC family transcriptional regulator |    237 |
-| MFS transporter                       |    215 |
-| carbohydrate ABC transporter permease |    212 |
+|              function    |  count |
+|:-------------------------|-------:|
+| 30S ribosomal protein S9 |      4 |
+| glutamate--tRNA ligase   |      4 |
 
 ### Staphylococcus
 
-|              function             | count |
-|:------------------------------------|-------:|
-| hypothetical protein                |    713 |
-| ABC transporter ATP-binding protein |     87 |
-| MFS transporter                     |     86 |
-| ABC transporter permease            |     65 |
-| GNAT family N-acetyltransferase     |     47 |
+|              function    |  count |
+|:-------------------------|-------:|
+| 30S ribosomal protein S9 |      3 |
+| glutamate--tRNA ligase   |      3 |
 
 ### Streptococcus
 
-|                function               | count |
-|:----------------------------------------|-------:|
-| hypothetical protein                    |    478 |
-| ABC transporter ATP-binding protein     |    120 |
-| ABC transporter permease                |    104 |
-| GNAT family N-acetyltransferase         |    104 |
-| response regulator transcription factor |     53 |
+|                function  | count |
+|                          |   func |
+|:-------------------------|-------:|
+| 30S ribosomal protein S9 |      5 |
+| glutamate--tRNA ligase   |      5 |
