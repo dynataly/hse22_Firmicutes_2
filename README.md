@@ -31,7 +31,8 @@
 Распределение количества генов в кластерах:
 
 
-![index](https://user-images.githubusercontent.com/72361668/173962568-407c7f14-1097-493f-b6ef-3874beed26f2.png)
+
+![genes](https://user-images.githubusercontent.com/72361668/173962626-fd5f0210-486e-4704-a225-ea4f69726ba3.png)
 
 
 
