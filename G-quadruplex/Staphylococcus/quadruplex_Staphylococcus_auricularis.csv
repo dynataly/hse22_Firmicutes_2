@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,score,nt,nb,nm,rl1,rl2,rl3,ll1,ll2,ll3,source,type
+auricularis,1814147,1814171,25,-,59,3,0,0,3,3,3,7,5,1,pqsfinder,G_quartet
