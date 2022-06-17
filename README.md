@@ -17,13 +17,13 @@
 
 Род |	Длина генома | GC |	кол-во генов | кол-во ZДНК участков |	Кол-во генов с ZДНК в промотере
 ------|----|---|---|---|-
-Caldicellulosiruptor |	2709221 |	35.4 |	2508,4 |	853,6	|
-Staphylococcus |	2391536 |	37.78772 |	2209.4 |	3554	|
-Aerococcus |	1938957 |	40,68 |	1819 |	1192 |	206
-Enterococcus	| 3367528	| 39.12812	| 3263 |	796 |	193
+Caldicellulosiruptor |	2709221 |	35.4 |	2508.4. |	853.6	|
+Staphylococcus |	2391536 |	37.8 |	2209.4 |	3554	|
+Aerococcus |	1938957 |	40.7 |	1819 |	1192 |	206
+Enterococcus	| 3367528	| 39.1	| 3263 |	796 |	193
 virgibacillus		| | | | |			
-Paenibacillus |	7054719 |	55.51 |	6045 |	31796 |	1277
-Streptococcus |	2 008 585,6 |	42,66 |	1883,6 |	1246,2 |	66,6
+Paenibacillus |	7054719 |	55.5 |	6045 |	31796 |	1277
+Streptococcus |	2 008 585.6 |	42.7 |	1883.6 |	1246.2 |	66.6
 Anoxybacillus	| | | | |				
 Thermoanaerobacter	| | | | |				
 
