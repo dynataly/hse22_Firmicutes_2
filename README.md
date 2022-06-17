@@ -123,6 +123,7 @@ Thermoanaerobacter	| | | | |
 
 ## Heatmap:
 
-![heat_sp_horiz](https://user-images.githubusercontent.com/72361668/174352542-d9a73d90-4eb1-47aa-b58c-9318657ed817.jpg)
+
+![heat_no_t_horiz](https://user-images.githubusercontent.com/72361668/174398971-f7e8df98-5ce3-464b-8b35-3c1c726e1748.jpg)
 
 
