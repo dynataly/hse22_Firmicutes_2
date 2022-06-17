@@ -10,7 +10,7 @@
 Зинов Александр  | Paenibacillus   |  [github](https://github.com/sashkent3/biominor_hse22_project)
 Соколов Антон  | Streptococcus  |   [github](https://github.com/antonsokol57/hse22_project)
 Хан Андрей   | Anoxybacillus  |     [github](https://github.com/midzukami/hse22_project)
-Хохлов Владислав  | Thermoanaerobacter |  [github] (https://github.com/entergro/hse22_project)
+Хохлов Владислав  | Thermoanaerobacter |  [github](https://github.com/entergro/hse22_project)
 
 
 Статистика по всем родам:
