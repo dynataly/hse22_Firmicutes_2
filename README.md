@@ -110,14 +110,6 @@
 
 ## Heatmap:
 
-По родам:
-
-![heat](https://user-images.githubusercontent.com/72361668/174020653-341dbc54-94e8-43de-b473-6bb0aa998d93.jpg)
-
-По видам:
-
-
-
-![heat_sp_horiz](https://user-images.githubusercontent.com/72361668/174080839-34af3869-c216-4498-a220-45d250f2a65d.jpg)
+![heat_sp_horiz](https://user-images.githubusercontent.com/72361668/174352542-d9a73d90-4eb1-47aa-b58c-9318657ed817.jpg)
 
 
