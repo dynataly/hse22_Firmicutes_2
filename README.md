@@ -13,6 +13,19 @@
 Хохлов Владислав  | Thermoanaerobacter |  github
 
 
+Статистика по всем родам:
+
+Род |	Длина генома | GC |	кол-во генов | кол-во ZДНК участков |	Кол-во генов с ZДНК в промотере
+------|----|---|---|---|
+Caldicellulosiruptor |	2 | 709 | 221 |	35.4 |	2508,4 |	853,6	
+Staphylococcus |	2391536 |	37.78772 |	2209.4 |	3554	|
+Aerococcus	1938957 |	40,68 |	1819 |	1192 |	206
+Enterococcus	| 3367528	| 39.12812	| 3263 |	796 |	193
+virgibacillus		| | | | |			
+Paenibacillus |	7054719 |	55.51 |	6045 |	31796 |	1277
+Streptococcus |	2 008 585,6 |	42,66 |	1883,6 |	1246,2 |	66,6
+Anoxybacillus	| | | | |				
+Thermoanaerobacter	| | | | |				
 
 
 [Презентация](https://docs.google.com/presentation/d/1Svm-As2WG6i6F2u52PYbz7J38om2SyB_J_lKUWkPtmQ/edit#slide=id.p)
