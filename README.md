@@ -159,5 +159,10 @@ Thermoanaerobacter	| | | | |
 
 Кластер 1:
 
+![cluster1_zdna](https://user-images.githubusercontent.com/72361668/174437563-d48badf0-84ca-42e4-8faa-af22e2d7bb97.jpg)
+
+
+Кластер 2:
+
 ![cluster1_zdna](https://user-images.githubusercontent.com/72361668/174437194-ff355f54-4f9e-473c-acb2-8295551cfa9b.jpg)
 
