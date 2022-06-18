@@ -138,3 +138,18 @@ Thermoanaerobacter	| | | | |
 
 
 ![cluster2](https://user-images.githubusercontent.com/72361668/174435833-19f870f8-5116-4cf1-83f7-c2d05bf81dcc.jpeg)
+
+
+## Аминокислотное выравнивание:
+
+Видно, что белки из одного кластера действительно похожи друг на друга:
+
+Кластер 1:
+
+![cluster1](https://user-images.githubusercontent.com/72361668/174436214-0b2fd049-0b01-422e-bb28-1a5d752e506b.jpg)
+
+
+Кластер 2:
+
+![cluster2](https://user-images.githubusercontent.com/72361668/174436218-46fd5fba-7c33-47f3-9a9d-f55399f21635.jpg)
+
