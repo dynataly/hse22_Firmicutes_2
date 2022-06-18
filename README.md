@@ -129,12 +129,12 @@ Thermoanaerobacter	| | | | |
 
 ## Визуализация для двух кластеров, в которые входят представители 6 родов, имеющие Z-ДНК в промотерах:
 
-Кластер 1:
+Кластер 1: 30S ribosomal protein S9
 
 ![cluster1](https://user-images.githubusercontent.com/72361668/174435829-6ea01488-0b91-4559-bd78-9f974acf55da.jpeg)
 
 
-Кластер 2:
+Кластер 2: glutamate--tRNA ligase
 
 
 ![cluster2](https://user-images.githubusercontent.com/72361668/174435833-19f870f8-5116-4cf1-83f7-c2d05bf81dcc.jpeg)
