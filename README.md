@@ -153,3 +153,11 @@ Thermoanaerobacter	| | | | |
 
 ![cluster2](https://user-images.githubusercontent.com/72361668/174436218-46fd5fba-7c33-47f3-9a9d-f55399f21635.jpg)
 
+
+
+## Нуклеотидное выравнивание:
+
+Кластер 1:
+
+![cluster1_zdna](https://user-images.githubusercontent.com/72361668/174437194-ff355f54-4f9e-473c-acb2-8295551cfa9b.jpg)
+
