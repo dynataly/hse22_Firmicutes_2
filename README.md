@@ -127,3 +127,14 @@ Thermoanaerobacter	| | | | |
 ![heat_no_t_horiz](https://user-images.githubusercontent.com/72361668/174398971-f7e8df98-5ce3-464b-8b35-3c1c726e1748.jpg)
 
 
+## Визуализация для двух кластеров, в которые входят представители 6 родов, имеющие Z-ДНК в промотерах:
+
+Кластер 1:
+
+![cluster1](https://user-images.githubusercontent.com/72361668/174435829-6ea01488-0b91-4559-bd78-9f974acf55da.jpeg)
+
+
+Кластер 2:
+
+
+![cluster2](https://user-images.githubusercontent.com/72361668/174435833-19f870f8-5116-4cf1-83f7-c2d05bf81dcc.jpeg)
